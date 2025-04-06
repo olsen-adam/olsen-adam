@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @olsen-adam
-- 👀 I’m interested in Game Design, Data Science, and Full-Stack development
+- 👀 I’m interested in Web Applications, Database Management, and Full-Stack Development
 - 🌱 I’m currently learning Computer Science at the University of Alberta
-- 💞️ I’m looking to collaborate on any style of project!
 - 📫 How to reach me: olsen.adam06@gmail.com!
 
 <!---
