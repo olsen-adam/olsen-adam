@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olsen-adam
 - 👀 I’m interested in Web Applications, Database Management, and Full-Stack Development
-- 🌱 I’m currently learning Computer Science at the University of Alberta
+- 🌱 I am a full-stack software engineer from the University of Alberta
 - 📫 How to reach me: olsen.adam06@gmail.com!
 
 <!---
